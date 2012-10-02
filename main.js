@@ -24,11 +24,6 @@
 /*jslint vars: true, plusplus: true, devel: true, nomen: true, indent: 4, maxerr: 50 */
 /*global define, $, brackets, btoa, atob */
 
-// TODO:
-// -- Useful for other comment styles too? (e.g. /////////////////////)
-// -- Make it configurable (what to repeat, what comment style to use)
-// -- Unit test
-
 define(function (require, exports, module) {
     "use strict";
     
